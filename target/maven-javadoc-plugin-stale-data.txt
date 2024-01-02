@@ -1,0 +1,60 @@
+@options
+@packages
+-classpath
+'C:/Users/jegs_/.m2/repository/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar;C:/Users/jegs_/.m2/repository/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar;C:/Users/jegs_/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.core/2.7.10/org.eclipse.persistence.core-2.7.10.jar;C:/Users/jegs_/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.asm/9.2.0/org.eclipse.persistence.asm-9.2.0.jar;C:/Users/jegs_/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.antlr/2.7.10/org.eclipse.persistence.antlr-2.7.10.jar;C:/Users/jegs_/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.jpa/2.7.10/org.eclipse.persistence.jpa-2.7.10.jar;C:/Users/jegs_/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.jpa.jpql/2.7.10/org.eclipse.persistence.jpa.jpql-2.7.10.jar;C:/Users/jegs_/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.moxy/2.7.10/org.eclipse.persistence.moxy-2.7.10.jar;C:/Users/jegs_/.m2/repository/org/eclipse/persistence/jakarta.persistence/2.2.3/jakarta.persistence-2.2.3.jar;C:/Users/jegs_/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.jpa.modelgen.processor/2.7.10/org.eclipse.persistence.jpa.modelgen.processor-2.7.10.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'D:/Jegs/Documents/CURSOS/Bootcamp Hack a Boss/Proyectos pruebas tecnicas/pruebatec1/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Jegs/Documents/CURSOS/Bootcamp Hack a Boss/Proyectos pruebas tecnicas/pruebatec1/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'pruebatec1 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'pruebatec1 1.0-SNAPSHOT API'
+com.mycompany.pruebatec1.logica
+com.mycompany.pruebatec1.persistencia
+com.mycompany.pruebatec1.persistencia.exceptions
+com.mycompany.pruebatec1
+com.mycompany.pruebatec1.servicios
+C:\Users\jegs_\.m2\repository\com\mysql\mysql-connector-j\8.0.33\mysql-connector-j-8.0.33.jar = 1681683093000
+C:\Users\jegs_\.m2\repository\com\google\protobuf\protobuf-java\3.21.9\protobuf-java-3.21.9.jar = 1666818740000
+C:\Users\jegs_\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.core\2.7.10\org.eclipse.persistence.core-2.7.10.jar = 1703437449417
+C:\Users\jegs_\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.asm\9.2.0\org.eclipse.persistence.asm-9.2.0.jar = 1703437444211
+C:\Users\jegs_\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.antlr\2.7.10\org.eclipse.persistence.antlr-2.7.10.jar = 1703437444113
+C:\Users\jegs_\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.jpa\2.7.10\org.eclipse.persistence.jpa-2.7.10.jar = 1703437446041
+C:\Users\jegs_\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.jpa.jpql\2.7.10\org.eclipse.persistence.jpa.jpql-2.7.10.jar = 1703437445869
+C:\Users\jegs_\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.moxy\2.7.10\org.eclipse.persistence.moxy-2.7.10.jar = 1703437445034
+C:\Users\jegs_\.m2\repository\org\eclipse\persistence\jakarta.persistence\2.2.3\jakarta.persistence-2.2.3.jar = 1564761743000
+C:\Users\jegs_\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.jpa.modelgen.processor\2.7.10\org.eclipse.persistence.jpa.modelgen.processor-2.7.10.jar = 1703437444603
+D:\Jegs\Documents\CURSOS\Bootcamp Hack a Boss\Proyectos pruebas tecnicas\pruebatec1\src\main\java = 1703980529856
+D:\Jegs\Documents\CURSOS\Bootcamp Hack a Boss\Proyectos pruebas tecnicas\pruebatec1\target\site\apidocs\allclasses-index.html = 1704154662962
+D:\Jegs\Documents\CURSOS\Bootcamp Hack a Boss\Proyectos pruebas tecnicas\pruebatec1\target\site\apidocs\allpackages-index.html = 1704154662968
+D:\Jegs\Documents\CURSOS\Bootcamp Hack a Boss\Proyectos pruebas tecnicas\pruebatec1\target\site\apidocs\element-list = 1704154662705
+D:\Jegs\Documents\CURSOS\Bootcamp Hack a Boss\Proyectos pruebas tecnicas\pruebatec1\target\site\apidocs\help-doc.html = 1704154663031
+D:\Jegs\Documents\CURSOS\Bootcamp Hack a Boss\Proyectos pruebas tecnicas\pruebatec1\target\site\apidocs\index-all.html = 1704154663017
+D:\Jegs\Documents\CURSOS\Bootcamp Hack a Boss\Proyectos pruebas tecnicas\pruebatec1\target\site\apidocs\index.html = 1704154662930
+D:\Jegs\Documents\CURSOS\Bootcamp Hack a Boss\Proyectos pruebas tecnicas\pruebatec1\target\site\apidocs\jquery-ui.overrides.css = 1704154663069
+D:\Jegs\Documents\CURSOS\Bootcamp Hack a Boss\Proyectos pruebas tecnicas\pruebatec1\target\site\apidocs\member-search-index.js = 1704154662981
+D:\Jegs\Documents\CURSOS\Bootcamp Hack a Boss\Proyectos pruebas tecnicas\pruebatec1\target\site\apidocs\module-search-index.js = 1704154662971
+D:\Jegs\Documents\CURSOS\Bootcamp Hack a Boss\Proyectos pruebas tecnicas\pruebatec1\target\site\apidocs\overview-summary.html = 1704154663022
+D:\Jegs\Documents\CURSOS\Bootcamp Hack a Boss\Proyectos pruebas tecnicas\pruebatec1\target\site\apidocs\overview-tree.html = 1704154662920
+D:\Jegs\Documents\CURSOS\Bootcamp Hack a Boss\Proyectos pruebas tecnicas\pruebatec1\target\site\apidocs\package-search-index.js = 1704154662974
+D:\Jegs\Documents\CURSOS\Bootcamp Hack a Boss\Proyectos pruebas tecnicas\pruebatec1\target\site\apidocs\script.js = 1704154663040
+D:\Jegs\Documents\CURSOS\Bootcamp Hack a Boss\Proyectos pruebas tecnicas\pruebatec1\target\site\apidocs\search.js = 1704154663045
+D:\Jegs\Documents\CURSOS\Bootcamp Hack a Boss\Proyectos pruebas tecnicas\pruebatec1\target\site\apidocs\serialized-form.html = 1704154662816
+D:\Jegs\Documents\CURSOS\Bootcamp Hack a Boss\Proyectos pruebas tecnicas\pruebatec1\target\site\apidocs\stylesheet.css = 1704154663036
+D:\Jegs\Documents\CURSOS\Bootcamp Hack a Boss\Proyectos pruebas tecnicas\pruebatec1\target\site\apidocs\tag-search-index.js = 1704154662986
+D:\Jegs\Documents\CURSOS\Bootcamp Hack a Boss\Proyectos pruebas tecnicas\pruebatec1\target\site\apidocs\type-search-index.js = 1704154662977

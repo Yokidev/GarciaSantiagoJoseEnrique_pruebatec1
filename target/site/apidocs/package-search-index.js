@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.mycompany.pruebatec1"},{"l":"com.mycompany.pruebatec1.logica"},{"l":"com.mycompany.pruebatec1.persistencia"},{"l":"com.mycompany.pruebatec1.persistencia.exceptions"},{"l":"com.mycompany.pruebatec1.servicios"}];updateSearchResults();
