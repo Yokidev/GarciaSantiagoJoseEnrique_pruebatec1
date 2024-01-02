@@ -150,6 +150,8 @@ public class Menu {
 
                 empleadoServicio.borrarEmpleado(id);
 
+                System.out.println("Empleado eliminado de la base de datos");
+                
                 volverMenuPrincipal();
             }else{
                 System.out.println("Registro vacío"); //En caso de que el registro esté vacio se devuelve el usuario al menu 
